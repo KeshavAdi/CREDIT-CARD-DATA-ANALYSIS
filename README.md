@@ -7,8 +7,8 @@ all aspects of credit card operations. PSPD Bank has banking operations in more 
 across the globe. Mr. Jim Watson, CEO, wants to evaluate areas of bankruptcy, fraud, and 
 collections, respond to customer requests for help with proactive offers and service
 #######
-Understanding the customer behaviour
-Personalize offering based on data results
-Use trends and patterns to get new customers
-Uncover suspicious activity
+Understanding the customer behaviour,
+Personalize offering based on data results,
+Use trends and patterns to get new customers,
+Uncover suspicious activity,
 Reduce chargebacks
